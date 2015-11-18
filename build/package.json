@@ -1,6 +1,6 @@
 {
   "name": "boom-autocomplete",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Accessible, extensible, Autocomplete for React.js, built on rackt/react-autocomplete",
   "main": "./build/lib/index.js",
   "repository": {
@@ -12,16 +12,7 @@
   "directories": {
     "example": "examples"
   },
-  "scripts": {
-    "start": "rackt server",
-    "build": "rackt build",
-    "release": "rackt release"
-  },
   "license": "MIT",
-  "devDependencies": {
-    "rackt-cli": "^0.4.0",
-    "react": "^0.14.2"
-  },
   "tags": [
     "react",
     "autocomplete",
