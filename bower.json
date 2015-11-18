@@ -1,6 +1,6 @@
 {
   "name": "boom-autocomplete",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "",
   "description": "react component",
   "main": "dist/react-autocomplete.js",

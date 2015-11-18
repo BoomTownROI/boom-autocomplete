@@ -1,6 +1,6 @@
 {
   "name": "boom-autocomplete",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Accessible, extensible, Autocomplete for React.js, built on rackt/react-autocomplete",
   "main": "./lib/index.js",
   "repository": {
