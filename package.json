@@ -1,8 +1,8 @@
 {
   "name": "boom-autocomplete",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Accessible, extensible, Autocomplete for React.js, built on rackt/react-autocomplete",
-  "main": "./build/lib/index.js",
+  "main": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/BoomTownROI/boom-autocomplete.git"
