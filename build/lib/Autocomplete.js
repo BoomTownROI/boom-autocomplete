@@ -243,7 +243,7 @@ var Autocomplete = React.createClass({
       highlightedIndex: null
     }, function () {
       _this5.props.onSelect(_this5.state.value, item);
-      ReactDOM.findDOMNode(_this5.refs.input).focus();
+      // ReactDOM.findDOMNode(this.refs.input).focus()
       _this5.setIgnoreBlur(false);
     });
   },
